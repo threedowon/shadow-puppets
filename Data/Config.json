@@ -1,0 +1,27 @@
+{
+	"oSC_IPAddress": "127.0.0.1",
+	"oSC_PortIn": 7000,
+	"oSC_PortOut": 8000,
+	"config_Vector2DValue":
+	{
+		"x": 0,
+		"y": 0
+	},
+	"config_VectorValue":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"config_Vector4Value":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0,
+		"w": 0
+	},
+	"window_PosX": 0,
+	"window_PosY": 0,
+	"window_Width": 1080,
+	"window_Height": 1920
+}
