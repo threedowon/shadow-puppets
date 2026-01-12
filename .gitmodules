@@ -1,0 +1,3 @@
+[submodule "Plugins/DowonFramework"]
+	path = Plugins/DowonFramework
+	url = https://github.com/threedowon/dowonframework.git
